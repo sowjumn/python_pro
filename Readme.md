@@ -1,4 +1,4 @@
-#PIP commands
+# PIP commands
 Open python interactive terminal
 `>python` 
 
