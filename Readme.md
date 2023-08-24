@@ -24,3 +24,18 @@ Uninstall a package(Doesnt uninstall dependent packages)
 Location for 3rd party packages
 `pypi`
 
+Output package versions 
+`pip freeze > requirements.txt`
+
+Install all packages in requirements file
+`pip install -r requirements.txt`
+
+Uninstall all packages in requirements file
+`pip uninstall -r requirements.txt`
+
+Create a virtual environment
+`python -m venv environment-name`
+
+Source the environment to activate it
+`source environment-name/bin/activate`
+
